@@ -1,4 +1,4 @@
-This is a repo to store all my [Frontend Mentor](https://www.frontendmentor.io/home) solutions.
+This is a repo to store all my [Frontend Mentor](https://www.frontendmentor.io/) solutions.
 
 Challenges                    | Stacks          | Repo | Demo
 :---                          |      :---:      | :---:  | :---:
