@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![header](./screenshot.png)
+![header](https://github.com/anespoul34/Frontend-Mentor-Challenges/blob/main/results-summary-component/src/assets/screenshot.png)
 
 ### Links
 
