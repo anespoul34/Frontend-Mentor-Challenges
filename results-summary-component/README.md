@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](https://your-solution-url.com)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/results-summary-component-using-svelte-and-scss-vsI1opecyB)
 - Live Site URL: [link](https://frontend-mentor-challenges-bjva.vercel.app/)
 
 ## My process
