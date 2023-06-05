@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![header](./screenshot.png)
+![header](https://github.com/anespoul34/Frontend-Mentor-Challenges/blob/main/results-summary-component/src/assets/screenshot.png)
 
 ### Links
 
-- Solution URL: [link](https://your-solution-url.com)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/results-summary-component-using-svelte-and-scss-vsI1opecyB)
 - Live Site URL: [link](https://frontend-mentor-challenges-bjva.vercel.app/)
 
 ## My process
