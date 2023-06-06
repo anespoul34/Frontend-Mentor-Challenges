@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,800&display=swap');
+
+// Fonts
+$font: 'Poppins', sans-serif;
+$f-size: 32px;
+
+// Primary Colors
+$purple: hsl(259, 100%,  65%);
+$red: hsl(0,100%, 67%);
+// Neutral Colors
+$white: hsl(0, 0%, 100%);
+$offWhite: hsl(0, 0%, 94%);
+$lightGrey: hsl(0, 0%, 86%);
+$smokeyGrey: hsl(0, 1%, 44%);
+$offBlack: hsl(0, 0%, 8%);
+
+:root {
+  font-size: $f-size;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input, label, p, span {
+  font-family: $font;
+}
+label {
+  letter-spacing: 3px;
+  font-size: 0.35rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: $smokeyGrey;
+}
+input {
+  outline: none;
+  width: 140px;
+  height: 60px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 700;
+  border: 1px solid $lightGrey;
+  color: $offBlack;
+  padding: 0 16px;
+}
+input::placeholder {
+  color: $smokeyGrey;
+}
+input:hover, input:active, input:focus {
+  border: 1px solid $purple;
+  caret-color: $purple;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: $purple;
+  border: none;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+
+  img {
+    width: 64%;
+  }
+}
+button:hover {
+  background-color: $offBlack;
+}
+
+.attribution {
+  position: absolute;
+  width: 100%;
+  bottom: 5px;
+  left: 0;
+  font-family: $font;
+  font-weight: 400;
+  color: $purple;
+  text-align: center;
+  font-size: 0.5rem;
+  
+  a {
+    text-decoration: none;
+    font-weight: 700;
+    color: $red;
+  }
+}
