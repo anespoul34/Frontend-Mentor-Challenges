@@ -95,7 +95,6 @@
 </script>
 
 <main class="container">
-  <h1></h1>
   <form on:submit|preventDefault={validate}>
     <div>
       <label for="day" class={dayErrorMessage ? 'error' : ''}>DAY</label>
