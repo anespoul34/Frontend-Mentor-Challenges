@@ -3,8 +3,8 @@
 
 <main>
   <div class="left">
-    <img class="desktop-img" src="./assets/image-product-desktop.jpg" alt="perfume" />
-    <img class="mobile-img" src="./assets/image-product-mobile.jpg" alt="perfume" />
+    <img class="desktop-img" src="./assets/images/image-product-desktop.jpg" alt="perfume" />
+    <img class="mobile-img" src="./assets/images/image-product-mobile.jpg" alt="perfume" />
   </div>
   <div class="right">
     <span class="head">PERFUME</span>
@@ -15,7 +15,7 @@
       <span>$169.99</span>
     </div>
     <button class="add-to-cart-btn">
-      <img src="./assets/icon-cart.svg" alt="cart-icon">
+      <img src="./assets/images/icon-cart.svg" alt="cart-icon">
       <span>Add to cart</span>
     </button>
   </div>
