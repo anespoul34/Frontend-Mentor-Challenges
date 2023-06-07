@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![header](https://github.com/anespoul34/Frontend-Mentor-Challenges/blob/main/results-summary-component/src/assets/screenshot.png)
+![header](https://github.com/anespoul34/Frontend-Mentor-Challenges/blob/main/age-calculator-app/static/assets/images/screenshot.png)
 
 ### Links
 
