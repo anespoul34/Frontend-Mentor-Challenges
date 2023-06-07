@@ -133,10 +133,10 @@
     <p>{animDay >= 0 ? animDay : '--'}<span>days</span></p>
   </div>
 </main>
-<div class="attribution">
+<footer class="attribution">
   Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
   Coded by <a href="https://www.arthurnespoulous.com" target="_blank">AN</a>.
-</div>
+</footer>
 
 <style lang="scss">
   main {
