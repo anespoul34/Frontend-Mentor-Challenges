@@ -3,6 +3,7 @@ This is a repo where you can find all my [Frontend Mentor](https://www.frontendm
 Challenges                    | Stacks          | Repo | Demo | Level
 :---                          |      :---:      | :---:  | :---: | :---:
 | QR Code Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/fm-qr-code-component) |[Link](https://fm-qr-code-component-virid.vercel.app/) | Newbie
+| Order Summary Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/order-summary-component) |[link](https://order-summary-component-alpha-gold.vercel.app/) | Newbie
 | Results Summary Component  |  Svelte, SCSS | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/results-summary-component) |[Link](https://frontend-mentor-challenges-bjva.vercel.app/) | Newbie
 | Product Preview Card Component  |  Svelte, SCSS  | [Repo](https://github.com/anespoul34/product-preview-card-component) |[link](https://product-preview-card-component-psi-six.vercel.app/) | Newbie
 | Interactive Rating Component  |  Svelte, TypeScript, SCSS  | [Repo](https://github.com/anespoul34/interactive-rating-component) |[link](https://interactive-rating-component-nine-steel.vercel.app/) | Newbie
