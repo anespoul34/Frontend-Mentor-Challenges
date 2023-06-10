@@ -5,7 +5,7 @@ Challenges                    | Stacks          | Repo | Demo | Level
 | QR Code Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/fm-qr-code-component) |[Link](https://fm-qr-code-component-virid.vercel.app/) | Newbie
 | Order Summary Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/order-summary-component) |[link](https://order-summary-component-alpha-gold.vercel.app/) | Newbie
 | Profil Card Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/profil-card-component) |[link](https://profil-card-component-nu.vercel.app/) | Newbie
-| FAQ Accordion Card Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/faq-accordion-card) |[link](https://faq-accordion-card-delta-lac.vercel.app/) | Newbie
+| FAQ Accordion Card Component  |  HTML, CSS, JavaScript  | [Repo](https://github.com/anespoul34/faq-accordion-card) |[link](https://faq-accordion-card-delta-lac.vercel.app/) | Newbie
 | Stats Preview Card Component  |  Parcel, HTML, CSS, Flexbox  | [Repo](https://github.com/anespoul34/stats-preview-card-component) |[link](https://stats-preview-card-component-mu.vercel.app/) | Newbie
 | 3 Column Preview Card Component  |  Parcel, HTML, CSS, Grid  | [Repo](https://github.com/anespoul34/3-column-preview-card-component) |[link](https://3-column-preview-card-component-delta-beryl.vercel.app/) | Newbie
 | Results Summary Component  |  Svelte, SCSS | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/results-summary-component) |[Link](https://frontend-mentor-challenges-bjva.vercel.app/) | Newbie
