@@ -12,6 +12,7 @@ Challenges                    | Stacks          | Repo | Demo | Level
 | Product Preview Card Component  |  Svelte, SCSS  | [Repo](https://github.com/anespoul34/product-preview-card-component) |[link](https://product-preview-card-component-psi-six.vercel.app/) | Newbie
 | Interactive Rating Component  |  Svelte, TypeScript, SCSS  | [Repo](https://github.com/anespoul34/interactive-rating-component) |[link](https://interactive-rating-component-nine-steel.vercel.app/) | Newbie
 | NFT Preview Card Component  |  Svelte, SCSS  | [Repo](https://github.com/anespoul34/nft-preview-card-component) |[link](https://nft-preview-card-component-mu-six.vercel.app/) | Newbie
+| Social Proof Section Master  |  HTML, CSS, Flexbox, Grid  | [Repo](https://github.com/anespoul34/social-proof-section-master) |[link](https://social-proof-section-master-pi-pink.vercel.app/) | Newbie
 | Newsletter Sign-up Form  |  Parcel, HTML, CSS, JavaScript, Flexbox  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/newsletter-sign-up-with-success-message-main) |[Link](https://frontend-mentor-challenges-pied.vercel.app/) | Junior
 | Age Calculator App  |  Svelte, SCSS, TypeScript  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/age-calculator-app) |[Link](https://frontend-mentor-challenges-3j18.vercel.app/) | Junior
 
