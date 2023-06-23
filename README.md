@@ -17,6 +17,7 @@ Challenges                    | Stacks          | Repo | Demo | Level
 | Four Card Feature Section Master  |  HTML, CSS, Flexbox, Grid  | [Repo](https://github.com/anespoul34/four-card-feature-section-master) |[Link](https://four-card-feature-section-master-three-sigma.vercel.app/) | Newbie
 | Base Apparel Coming Soon Page  |  HTML, CSS, Flexbox | [Repo](https://github.com/anespoul34/base-apparel-coming-soon-page) |[Link](https://base-apparel-coming-soon-page-liart.vercel.app/) | Newbie
 | Intro Component With Signup Form  |  HTML, CSS, JavaScript, Flexbox | [Repo](https://github.com/anespoul34/intro-component-with-sign-up-form) |[Link](https://intro-component-with-sign-up-form-brown.vercel.app/) | Newbie
+| Single Price Grid Component  |  HTML, CSS, Figma | [Repo](https://github.com/anespoul34/single-price-grid-component) |[Link](https://single-price-grid-component-beige-alpha.vercel.app/) | Newbie
 | Newsletter Sign-up Form  |  Parcel, HTML, CSS, JavaScript, Flexbox  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/newsletter-sign-up-with-success-message-main) |[Link](https://frontend-mentor-challenges-pied.vercel.app/) | Junior
 | Age Calculator App  |  Svelte, SCSS, TypeScript  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/age-calculator-app) |[Link](https://frontend-mentor-challenges-3j18.vercel.app/) | Junior
 
