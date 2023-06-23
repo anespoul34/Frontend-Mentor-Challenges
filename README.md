@@ -19,6 +19,7 @@ Challenges                    | Stacks          | Repo | Demo | Level
 | Intro Component With Signup Form  |  HTML, CSS, JavaScript, Flexbox | [Repo](https://github.com/anespoul34/intro-component-with-sign-up-form) |[Link](https://intro-component-with-sign-up-form-brown.vercel.app/) | Newbie
 | Single Price Grid Component  |  HTML, CSS, Figma | [Repo](https://github.com/anespoul34/single-price-grid-component) |[Link](https://single-price-grid-component-beige-alpha.vercel.app/) | Newbie
 | Ping Coming Soon Page |  HTML, CSS, JavaScript | [Repo](https://github.com/anespoul34/ping-coming-soon-page) |[Link](https://ping-coming-soon-page-three-rouge.vercel.app/) | Newbie
+| Huddle Landing Page |  HTML, CSS | [Repo](https://github.com/anespoul34/huddle-landing-page) |[Link](https://huddle-landing-page-ruddy-nine.vercel.app/) | Newbie
 | Newsletter Sign-up Form  |  Parcel, HTML, CSS, JavaScript, Flexbox  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/newsletter-sign-up-with-success-message-main) |[Link](https://frontend-mentor-challenges-pied.vercel.app/) | Junior
 | Age Calculator App  |  Svelte, SCSS, TypeScript  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/age-calculator-app) |[Link](https://frontend-mentor-challenges-3j18.vercel.app/) | Junior
 
