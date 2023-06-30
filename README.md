@@ -22,6 +22,7 @@ Challenges                    | Stacks          | Repo | Demo | Level
 | Huddle Landing Page |  HTML, CSS | [Repo](https://github.com/anespoul34/huddle-landing-page) |[Link](https://huddle-landing-page-ruddy-nine.vercel.app/) | Newbie
 | Newsletter Sign-up Form  |  Parcel, HTML, CSS, JavaScript, Flexbox  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/newsletter-sign-up-with-success-message-main) |[Link](https://frontend-mentor-challenges-pied.vercel.app/) | Junior
 | Age Calculator App  |  Svelte, SCSS, TypeScript  | [Repo](https://github.com/anespoul34/Frontend-Mentor-Challenges/tree/main/age-calculator-app) |[Link](https://frontend-mentor-challenges-3j18.vercel.app/) | Junior
+| News Homepage  |  HTML, CSS, JavaScript  | [Repo](https://www.frontendmentor.io/solutions/new-homepage-with-htmlcssjs-QB9s6TiBhg) |[Link](https://news-homepage-eta-eight.vercel.app/) | Junior
 
 
 You also can find my Svelte Project Template [here](https://github.com/anespoul34/Svelte-Project-Template).
